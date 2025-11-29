@@ -21,6 +21,4 @@ onMounted( async () => {
     <MainPagination></MainPagination>
   </div>
 
-  <MainCards></MainCards>
-  <MainPagination></MainPagination>
 </template>
